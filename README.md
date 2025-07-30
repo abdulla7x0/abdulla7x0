@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 working on motel hub<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 working on motel hub<br>🤝 I’m looking for bugsbr>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abdulla7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
